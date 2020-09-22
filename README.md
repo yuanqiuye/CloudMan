@@ -27,7 +27,7 @@ cmPath = C:\CloudMusic
 # Walkman folder
 wmPath = D:\
 
-# Only generate palylists which create by user
+# Only generate playlists which created by user
 onlyUserPlaylist = True
 
 # User ID (Can be found in Netease's share link, like: http://music.163.com/playlist?id=2862806718&userid=416611804)
