@@ -13,7 +13,7 @@
 - Python >= 3.5
 - 網易雲WIndows客戶端 (手上沒MacOS沒辦法開發，求有緣人PR XD)
 
-# Config (CM.ini):
+# Config (cm.ini):
 
 ```
 [general]
@@ -38,7 +38,7 @@ mergeTranslation = False
 
 # How ot use:
 1. 在網易雲音樂Windows客戶端下載音樂
-2. 編輯CM.ini
+2. 編輯cm.ini
 3. `pip install -r requirements.txt`
 4. `python app.py`
 
